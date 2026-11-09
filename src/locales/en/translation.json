@@ -1,0 +1,806 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "service": "Service",
+    "ourTeam": "Our Team",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Software Development Studio",
+      "title": "Engineering Digital Solutions for Modern",
+      "highlightTitle": "Businesses.",
+      "description": "A software engineering and digital design studio focused on designing and developing websites, web applications, desktop software, and Android applications using modern technologies to meet business needs.",
+      "primaryButton": "Start a Project",
+      "secondaryButton": "Explore Services",
+      "trustPoints": [
+        "Professional Quality",
+        "Modern Technology",
+        "Reliable Security"
+      ],
+      "floatingPerformanceTitle": "Optimal Performance",
+      "floatingPerformanceDescription": "Fast & Responsive",
+      "floatingDesignTitle": "Exclusive Design",
+      "floatingDesignDescription": "Modern Interface",
+      "floatingSupportStatus": "Ongoing",
+      "floatingSupportDescription": "Continuous Support"
+    },
+    "technology": {
+      "title": "Modern Industry Standards",
+      "description": "Powered by modern technologies for uncompromising speed and reliability."
+    },
+    "services": {
+      "eyebrow": "Digital Architecture Services",
+      "title": "Integrated Digital Solutions for Business Growth",
+      "description": "We combine intuitive UI/UX design with fast, modular software architecture built to support your business needs.",
+      "viewAll": "Explore All Service Specifications",
+      "deliveryPrefix": "Delivery",
+      "consultationTitle": "Need a cost estimate and a free consultation?",
+      "consultationDescription": "Get a comprehensive budget breakdown with no initial commitment required.",
+      "pricingButton": "Explore Packages & Pricing",
+      "items": {
+        "1": {
+          "title": "Professional Landing Page",
+          "description": "A modern, responsive, and user-friendly website, enhanced with SEO optimization to help your website become more discoverable through search engines.",
+          "delivery": "1–2 Weeks"
+        },
+        "2": {
+          "title": "Business Systems & Applications",
+          "description": "We design and develop various systems tailored to business needs, including reporting systems, queue management systems, point-of-sale (POS) systems, booking systems, and integrated operational management systems.",
+          "delivery": "1–3 Months"
+        },
+        "3": {
+          "title": "Mobile Applications",
+          "description": "We design and develop Android applications tailored to business needs, ranging from booking systems and management systems to customer service applications.",
+          "delivery": "1–3 Months"
+        },
+        "4": {
+          "title": "Desktop Applications",
+          "description": "We develop desktop applications for business operations, including point-of-sale (POS) systems, inventory management systems, and administrative systems that can operate locally or connect to a server.",
+          "delivery": "1–3 Months"
+        },
+        "5": {
+          "title": "Full Custom Development",
+          "description": "We deliver digital solutions fully tailored to your business needs, from planning and UI/UX design to system development. Every feature and technology is selected based on your requirements and project complexity.",
+          "delivery": "Based on Project Complexity"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Bring Your Digital Product to Life?",
+      "description": "Discuss your technical requirements and receive a roadmap and cost estimate within 24 hours from our tech lead team.",
+      "contactButton": "Contact Our Development Team",
+      "benefits": [
+        "Complimentary Initial Architecture Audit",
+        "Fast Response < 24 Hours",
+        "No Hidden Costs"
+      ]
+    }
+  },
+
+  "about": {
+    "hero": {
+      "eyebrow": "About IamDev Studio",
+      "title": "We Turn Ideas into",
+      "highlightTitle": "Digital Solutions.",
+      "description": "IamDev is a software engineering and digital design studio combining modern technology with design creativity. We craft UI/UX experiences and develop innovative, intuitive websites and web, mobile, and desktop applications tailored to business needs.",
+      "values": ["Innovation", "Precision", "Creativity"]
+    },
+    "visionMission": {
+      "visionLabel": "Our Vision",
+      "vision": "To become a trusted technology partner delivering innovative, high-quality, and impactful digital solutions.",
+      "visionDescription": "We are committed to delivering high-quality digital solutions through modern technology, transparent processes, measurable development, and maintainable code designed for long-term growth.",
+      "missionLabel": "Strategic Mission",
+      "missionTitle": "Three Operational Pillars of IamDev",
+      "missions": {
+        "1": {
+          "type": "Code Engineering",
+          "title": "Development Quality",
+          "description": "We prioritize quality through thoughtful planning, the right technology choices, and structured system development. Every solution is designed for optimal performance and future growth alongside your business needs."
+        },
+        "2": {
+          "type": "Digital Design",
+          "title": "User-Centered Design",
+          "description": "We believe good design should be both visually appealing and easy to use. We combine aesthetics with intuitive, responsive user experiences that feel natural across devices."
+        },
+        "3": {
+          "type": "Collaboration",
+          "title": "Open Collaboration",
+          "description": "We value open communication throughout every project. By understanding your needs and involving you from the beginning, we ensure each solution has a clear direction and meets expectations."
+        }
+      },
+      "principlesLabel": "Core Principles",
+      "principlesTitle": "Core Values Behind Every Line of Code",
+      "principlesDescription": "IamDev team's operating guidelines throughout every deployment.",
+      "principles": [
+        {
+          "title": "Modular Architecture",
+          "description": "A modular, reusable, and organized component structure for efficient system development."
+        },
+        {
+          "title": "Scalable Systems",
+          "description": "Flexible architecture that supports new features and growing business requirements."
+        },
+        {
+          "title": "Built-in Security",
+          "description": "Input validation, data sanitization, rate limiting, and access control to protect systems."
+        },
+        {
+          "title": "User Experience",
+          "description": "Intuitive interfaces, responsive design, and consistent interactions across devices."
+        }
+      ]
+    },
+    "technology": {
+      "eyebrow": "Modern Engineering Stack",
+      "title": "Industry-Grade Technologies & Tools We Use",
+      "description": "Every framework, language, and database ecosystem is selected for stability, execution efficiency, and long-term community support.",
+      "stackLabel": "Stacks",
+      "categories": {
+        "frontend": {
+          "title": "Frontend Development",
+          "description": "User interfaces, interactions, and digital experiences.",
+          "items": {
+            "React": {
+              "type": "UI Library",
+              "description": "Builds interactive, reusable, component-based user interfaces."
+            },
+            "TypeScript": {
+              "type": "Programming Language",
+              "description": "Adds a type system for safer, more structured, and maintainable code."
+            },
+            "JavaScript": {
+              "type": "Core Language",
+              "description": "Powers application logic, data manipulation, and dynamic interactions."
+            },
+            "Tailwind CSS": {
+              "type": "CSS Framework",
+              "description": "Creates responsive interfaces using utility-first CSS and a consistent design system."
+            },
+            "TanStack Query": {
+              "type": "Data Fetching",
+              "description": "Manages server state, caching, data synchronization, and efficient API fetching."
+            },
+            "Vite": {
+              "type": "Build Tool",
+              "description": "Speeds up frontend development and production builds with modern tooling."
+            },
+            "DaisyUI": {
+              "type": "Component Library",
+              "description": "Provides ready-to-use UI components built on Tailwind CSS to accelerate interface development."
+            },
+            "React Hook Form": {
+              "type": "Form Management",
+              "description": "Handles form inputs and validation efficiently with optimized performance."
+            },
+            "Axios": {
+              "type": "HTTP Client",
+              "description": "Manages HTTP communication between frontend and backend through API requests and responses."
+            }
+          }
+        },
+        "backend": {
+          "title": "Backend Development",
+          "description": "Application logic, APIs, and server management.",
+          "items": {
+            "Node.js": {
+              "type": "Runtime",
+              "description": "Runs asynchronous backend processes to handle multiple requests."
+            },
+            "Express.js": {
+              "type": "Framework",
+              "description": "Builds REST APIs with structured routing and flexible middleware."
+            },
+            "Prisma ORM": {
+              "type": "Database Tool",
+              "description": "Manages databases through type-safe queries, data modeling, and schema migrations."
+            }
+          }
+        },
+        "database": {
+          "title": "Database & Storage",
+          "description": "Data storage, management, and database integrity.",
+          "items": {
+            "MySQL": {
+              "type": "RDBMS",
+              "description": "Manages relational data with transaction support and data integrity."
+            },
+            "MongoDB": {
+              "type": "NoSQL Database",
+              "description": "A flexible document-based NoSQL database for storing and managing application data."
+            },
+            "SQLite": {
+              "type": "Local Database",
+              "description": "Lightweight local database storage for desktop and offline applications."
+            }
+          }
+        },
+        "tools": {
+          "title": "Tools & Design",
+          "description": "Interface design, version control, and project management.",
+          "items": {
+            "Figma": {
+              "type": "UI/UX Design",
+              "description": "Designs interfaces, interactive prototypes, and digital design systems."
+            },
+            "Git": {
+              "type": "Version Control",
+              "description": "Tracks code changes and supports collaborative development."
+            },
+            "GitHub": {
+              "type": "Code Repository",
+              "description": "Manages repositories, pull requests, and software development collaboration."
+            },
+            "Lucide Icons": {
+              "type": "Icon Library",
+              "description": "Provides a lightweight, consistent SVG icon collection for React interfaces."
+            },
+            "Tabler Icons": {
+              "type": "Icon Library",
+              "description": "Provides a versatile SVG icon collection for consistent interface design."
+            }
+          }
+        },
+        "crossPlatform": {
+          "title": "Desktop & Mobile Development",
+          "description": "Cross-platform application development.",
+          "items": {
+            "Electron": {
+              "type": "Desktop Framework",
+              "description": "Builds cross-platform desktop applications using web technologies."
+            },
+            "React Native": {
+              "type": "Mobile Framework",
+              "description": "Builds Android applications with a React-based development approach."
+            }
+          }
+        },
+        "security": {
+          "title": "Security & Validation",
+          "description": "Data validation, authentication, and API protection.",
+          "items": {
+            "Zod": {
+              "type": "Schema Validation",
+              "description": "Validates data structures and types through schemas to ensure inputs and requests follow defined rules."
+            },
+            "JWT": {
+              "type": "Authentication",
+              "description": "Uses token-based authentication to secure access and user identity."
+            },
+            "Express Rate Limit": {
+              "type": "API Protection",
+              "description": "Limits the number of requests within a period to reduce abuse and repeated API attacks."
+            },
+            "CORS": {
+              "type": "Cross-Origin Security",
+              "description": "Defines cross-origin access policies to control communication between frontend and backend."
+            }
+          }
+        }
+      }
+    }
+  },
+  "service": {
+    "hero": {
+      "eyebrow": "Services & Transparent Pricing",
+      "firstTitle": "Web Solutions",
+      "secondTitle": "Tailor-Made",
+      "thirdTitle": "for Your Business Needs",
+      "description": "Choose the development package that best fits your business, from rapid product launches to custom enterprise web application infrastructure.",
+      "highlights": [
+        {
+          "value": "100%",
+          "title": "Client-Owned Source Code"
+        },
+        {
+          "value": "24/7",
+          "title": "Website Accessibility"
+        },
+        {
+          "value": "3–12",
+          "title": "Weeks Estimated Development Time"
+        },
+        {
+          "value": "0%",
+          "title": "Hidden License Fees"
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Digital Architecture",
+      "title": "Web Engineering Service Categories",
+      "description": "We combine modern visual aesthetics with clean, modular code architecture tested for production-level performance.",
+      "benefitsTitle": "What You Get",
+      "items": {
+        "landing-page": {
+          "category": "LANDING PAGE",
+          "title": "High-Converting Landing Pages",
+          "description": "Websites for product promotion, marketing campaigns, or digital product launches, built with optimal performance and persuasive content structure.",
+          "features": [
+            "Mobile-first responsive design for multiple device sizes",
+            "Conversion-oriented Call-To-Action (CTA)",
+            "Supports promotional websites, product launches, campaigns, and personal branding",
+            "Basic on-page SEO, Open Graph metadata, and Google Analytics"
+          ],
+          "benefits": [
+            {
+              "title": "Professional Design",
+              "description": "A modern look aligned with your brand identity."
+            },
+            {
+              "title": "SEO Friendly",
+              "description": "Easier to discover through search engines."
+            },
+            {
+              "title": "Mobile Responsive",
+              "description": "Optimized for different device sizes."
+            },
+            {
+              "title": "Easy to Manage",
+              "description": "Content can be updated whenever needed."
+            }
+          ]
+        },
+        "business-system": {
+          "category": "BUSINESS SYSTEM",
+          "title": "Business Systems & Applications",
+          "description": "Digital systems that help manage and optimize business operations, from administration and transactions to data management and reporting.",
+          "features": [
+            "Business data and administration management systems",
+            "Transaction, point-of-sale (POS), and booking systems",
+            "Operational monitoring dashboards and reports",
+            "User management, access permissions, and data security"
+          ],
+          "benefits": [
+            {
+              "title": "Efficient Operations",
+              "description": "Simpler and faster business processes."
+            },
+            {
+              "title": "Centralized Data",
+              "description": "Business data stored in a structured way."
+            },
+            {
+              "title": "Controlled Access",
+              "description": "Permissions based on user roles."
+            },
+            {
+              "title": "Business Monitoring",
+              "description": "Monitor activities from a single dashboard."
+            }
+          ]
+        },
+        "mobile-app": {
+          "category": "MOBILE APPLICATION",
+          "title": "Modern Mobile Applications",
+          "description": "Mobile applications that help businesses reach more customers, simplify access to services, and deliver a practical user experience.",
+          "features": [
+            "Android application development tailored to requirements",
+            "Modern and easy-to-use interface",
+            "API and database integration for data management",
+            "Authentication, notifications, and user management features"
+          ],
+          "benefits": [
+            {
+              "title": "Intuitive UI/UX",
+              "description": "Easy and comfortable navigation."
+            },
+            {
+              "title": "Optimal Performance",
+              "description": "Responsive and smooth to use."
+            },
+            {
+              "title": "Data Integration",
+              "description": "Connected to APIs and servers."
+            },
+            {
+              "title": "Flexible Features",
+              "description": "Features tailored to business needs."
+            }
+          ]
+        },
+        "desktop-app": {
+          "category": "DESKTOP APPLICATION",
+          "title": "Integrated Desktop Applications",
+          "description": "Desktop applications supporting business operations through local data management, efficient workflows, and server integration.",
+          "features": [
+            "Desktop applications for Windows",
+            "Local database storage using SQLite",
+            "Offline usage and data synchronization support",
+            "Server integration for data exchange and updates"
+          ],
+          "benefits": [
+            {
+              "title": "Desktop Application",
+              "description": "Direct access from a computer."
+            },
+            {
+              "title": "Local Database",
+              "description": "Data stored on the local device."
+            },
+            {
+              "title": "Data Synchronization",
+              "description": "Local data connected to the server."
+            },
+            {
+              "title": "Convenient Access",
+              "description": "Work without depending on a browser."
+            }
+          ]
+        },
+        "custom-development": {
+          "category": "CUSTOM DEVELOPMENT",
+          "title": "Full Custom Development",
+          "description": "Digital solutions built around your business needs, from planning and UI/UX design to frontend and backend development and third-party integrations.",
+          "features": [
+            "System development based on specific requirements",
+            "UI/UX design and application architecture",
+            "API, database, and third-party service integration",
+            "Feature development and scalability tailored to requirements"
+          ],
+          "benefits": [
+            {
+              "title": "Exclusive Solutions",
+              "description": "Built around your business needs."
+            },
+            {
+              "title": "Flexible Architecture",
+              "description": "Easy to extend and adapt."
+            },
+            {
+              "title": "Comprehensive Features",
+              "description": "Functionality tailored to project requirements."
+            },
+            {
+              "title": "Structured Development",
+              "description": "Delivered through thoughtful planning."
+            }
+          ]
+        }
+      }
+    },
+    "pricing": {
+      "eyebrow": "Planned Investment",
+      "title": "Digital Development Packages",
+      "description": "Transparent pricing with no hidden fees. Every package follows high-quality engineering standards and includes a maintenance warranty.",
+      "recommended": "TOP RECOMMENDATION",
+      "button": "Discuss This Package",
+      "noteTitle": "Important Note",
+      "note": "All estimated prices may be adjusted based on complexity, feature volume, and specific third-party system integrations required by your project.",
+      "packages": [
+        {
+          "id": "starter",
+          "name": "Starter Package",
+          "label": "SMEs & Individuals",
+          "description": "The ideal choice for individuals and small businesses looking to establish their digital presence through a simple, modern, and professional website.",
+          "price": 1500000,
+          "pricePrefix": "",
+          "billing": "One-time project fee",
+          "recommended": false,
+          "features": [
+            "Single-Page Landing Website",
+            "Up to 5 Content Sections",
+            "Modern and Responsive Design",
+            "Optimized Mobile & Desktop Layout",
+            "WhatsApp Integration",
+            "Basic On-Page SEO",
+            "Image and Asset Optimization",
+            "Regular Maintenance",
+            "First Month of Maintenance Free",
+            "Free Minor Revisions",
+            "Website Ready to Build Your Digital Presence"
+          ],
+          "buttonText": "Discuss This Package"
+        },
+        {
+          "id": "professional",
+          "name": "Professional Package",
+          "label": "Growing Businesses",
+          "description": "A professional business website featuring custom design, informative pages, and interactive features to enhance credibility and expand your business reach.",
+          "price": 4500000,
+          "pricePrefix": "",
+          "billing": "One-time project fee",
+          "recommended": true,
+          "features": [
+            "Company Profile with Up to 5 Pages",
+            "Custom UI/UX Design Aligned with Your Brand",
+            "Responsive Design Across All Devices",
+            "Website Animations and Interactions",
+            "Services, Products & Portfolio Pages",
+            "Contact Form & WhatsApp Integration",
+            "On-Page SEO & Metadata Optimization",
+            "Google Analytics Integration",
+            "Performance and Speed Optimization",
+            "Regular Maintenance",
+            "First Month of Maintenance Free",
+            "Free Minor Revisions",
+            "Simple CMS for Managing Website Content"
+          ],
+          "buttonText": "Discuss This Package"
+        },
+        {
+          "id": "enterprise",
+          "name": "Enterprise Package",
+          "label": "Businesses & Enterprises",
+          "description": "Custom-built digital solutions designed around your business needs, featuring integrated systems, data management, process automation, and functionality tailored to your operational workflows.",
+          "price": 8500000,
+          "pricePrefix": "Starting from",
+          "billing": "Custom scope proposal",
+          "recommended": false,
+          "features": [
+            "Fully Custom Website & Application",
+            "Frontend & Backend Development",
+            "Custom UI/UX Design and System Architecture",
+            "Dashboard and Data Management",
+            "Database Design & Integration",
+            "Authentication and User Management",
+            "Multi-Role & Permission Management",
+            "REST API and Third-Party Service Integration",
+            "Testing and Quality Assurance",
+            "Deployment and Server Configuration",
+            "Regular Maintenance",
+            "First Month of Maintenance Free",
+            "Free Minor Revisions",
+            "Custom Business Logic & Workflow Tailored to Your Business Needs"
+          ],
+          "buttonText": "Discuss This Package"
+        }
+      ]
+    },
+    "workflow": {
+      "eyebrow": "Structured Workflow",
+      "title": "How We Build Your Solution",
+      "description": "Our modular sprint methodology provides stakeholders with clear visibility from day one through the official server release.",
+      "steps": [
+        {
+          "title": "Discovery & Planning",
+          "description": "We understand your needs, goals, and desired features before development begins."
+        },
+        {
+          "title": "Design & Development",
+          "description": "We design the interface and build your website or application according to project requirements."
+        },
+        {
+          "title": "Testing & Refinement",
+          "description": "We ensure every feature works properly, the interface is responsive, and the system performs as expected."
+        },
+        {
+          "title": "Launch & Handover",
+          "description": "Your website or application is ready to use. We also assist with publication and provide usage guidance."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "title": "Project Clarifications & FAQ",
+      "description": "Everything you need to know about collaboration, source code ownership, and ongoing maintenance.",
+      "items": [
+        {
+          "question": "What services does IamDev offer?",
+          "answer": [
+            "IamDev provides a range of digital solutions tailored to your needs, including:"
+          ],
+          "points": [
+            "Landing Pages for promotion and personal branding.",
+            "Business Systems to support business operations.",
+            "Mobile Applications for smartphones.",
+            "Desktop Applications for computer-based workflows.",
+            "Custom Development for specialized digital solutions."
+          ]
+        },
+        {
+          "question": "What is the difference between the Starter, Professional, and Enterprise packages?",
+          "answer": [
+            "Each package is designed for different project needs and levels of complexity."
+          ],
+          "points": [
+            "Starter: Ideal for individuals and small businesses that need a simple, professional landing page.",
+            "Professional: Ideal for growing businesses that need a company profile website with more pages and features.",
+            "Enterprise: Designed for businesses and companies that need custom websites, applications, or systems aligned with their workflows."
+          ]
+        },
+        {
+          "question": "How does project payment work at IamDev?",
+          "answer": [
+            "Payments are made in stages based on an agreement established before the project begins. The payment structure can be adjusted to the project's value and complexity.",
+            "Costs, payment milestones, and project scope will be communicated in advance to ensure a clear agreement between both parties."
+          ]
+        },
+        {
+          "question": "How long does website or application development take?",
+          "answer": [
+            "Development time depends on the project type, number of features, and overall complexity.",
+            "A landing page generally takes less time than a multi-page website or an application with a backend system. A timeline will be provided after discussing your requirements and agreeing on the project scope."
+          ]
+        },
+        {
+          "question": "Do I get free revisions after the project is completed?",
+          "answer": [
+            "Yes. IamDev provides free minor revisions as long as they do not change the main structure or add complex functionality beyond the initial agreement.",
+            "Larger or more complex changes may incur additional costs based on the difficulty and scope of the requested changes."
+          ]
+        },
+        {
+          "question": "Do websites and applications include maintenance?",
+          "answer": [
+            "Yes. Every project includes periodic maintenance to help keep the website or application running properly.",
+            "The first month of maintenance is included at no additional cost after project completion. Further maintenance can be continued based on an agreed fee and service requirements."
+          ]
+        },
+        {
+          "question": "Will the source code and project deliverables belong to the client?",
+          "answer": [
+            "Yes. The project deliverables and source code are handed over once all payment obligations have been fulfilled according to the agreement.",
+            "The handover includes source code and assets specifically created for the client. Licenses for third-party assets or services remain subject to their respective providers' terms."
+          ]
+        },
+        {
+          "question": "What if I do not yet know what type of website or application I need?",
+          "answer": [
+            "That is not a problem. You can consult with IamDev first and explain your ideas, needs, and business goals.",
+            "We will help identify the most suitable digital solution, features, and development approach for your project."
+          ]
+        }
+      ],
+      "contactCtaTitle": "Have a specific technical question about your project?",
+      "contactCtaDescription": "Our engineering team is ready to discuss system architecture, database selection, or a tailored development timeline.",
+      "contactButton": "Contact Our Admin",
+      "techStackButton": "Explore Our Tech Stack"
+    }
+  },
+
+  "team": {
+    "hero": {
+      "eyebrow": "Meet Our Team",
+      "firstTitle": "The People Behind Every Line of Code",
+      "secondTitle": "Code",
+      "description": "We are a small team combining technical expertise, creativity, and project management to deliver high-quality digital solutions.",
+      "highlights": [
+        {
+          "value": "100%",
+          "title": "Commitment & Dedication"
+        },
+        {
+          "value": "Team",
+          "title": "Creative & Professional"
+        },
+        {
+          "value": "4 Stages",
+          "title": "Structured Work Process"
+        },
+        {
+          "value": "Fullstack",
+          "title": "End-to-End Development"
+        }
+      ]
+    },
+    "connect": "Connect",
+    "members": {
+      "1": {
+        "role": "Software Engineer & Founder",
+        "position": "Software Engineer & Founder",
+        "description": "Leads the technology direction, designs system architecture, and develops innovative, efficient digital solutions tailored to every IamDev project."
+      },
+      "2": {
+        "role": "Admin & Co-Founder",
+        "position": "Admin & Co-Founder",
+        "description": "Manages project administration and documentation, coordinates operational needs, and ensures the team's data and workflows remain organized."
+      }
+    }
+  },
+
+  "contact": {
+    "hero": {
+      "eyebrow": "Start a Collaboration",
+      "firstTitle": "Let's Build Something",
+      "secondTitle": "Extraordinary",
+      "thirdTitle": "Together.",
+      "description": "Discuss your digital product vision with our team. We are ready to provide technical consultation, roadmap estimates, and the right solutions for your business.",
+      "responseTime": "Average SLA: < 15 mins"
+    },
+    "details": {
+      "eyebrow": "Quick Line • Metro, Lampung",
+      "title": "Direct Communication Channels",
+      "description": "Reach us through WhatsApp for a quick response or schedule a technical audit session with our principal architect.",
+      "whatsappTitle": "Chat with Us on WhatsApp",
+      "officialEmail": "Official Email",
+      "officialPhone": "Official Phone",
+      "address": "Address",
+      "operatingHours": "Business Hours",
+      "operatingHoursValue": "Every Day, 08:00–17:00 WIB",
+      "timezone": "UTC+07 (Jakarta Timezone)",
+      "socialProfiles": "Social Repositories & Profiles",
+      "serviceGuarantee": "IamDev Service Commitment",
+      "guarantees": [
+        "Guaranteed response within < 24 business hours",
+        "Mutual NDA available",
+        "100% Free Initial Technical & Architecture Consultation"
+      ]
+    },
+    "form": {
+      "title": "Submit a Project Inquiry",
+      "description": "Complete the form to generate a WhatsApp message template based on your project requirements.",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "e.g. Ilham Rohmatulloh",
+      "email": "Email",
+      "emailPlaceholder": "e.g. name@email.com",
+      "whatsapp": "WhatsApp Number",
+      "whatsappPlaceholder": "e.g. 0858-9689-0881",
+      "serviceType": "Service Type",
+      "servicePlaceholder": "Choose a service specification",
+      "budget": "Estimated Project Budget",
+      "budgetHint": "Select your estimated project budget",
+      "budgetOptions": [
+        {
+          "value": "lt-3jt",
+          "label": "< IDR 3 Million"
+        },
+        {
+          "value": "3jt-7jt",
+          "label": "IDR 3–7 Million"
+        },
+        {
+          "value": "7jt-10jt",
+          "label": "IDR 7–10 Million"
+        },
+        {
+          "value": "gt-10jt",
+          "label": "> IDR 10 Million"
+        }
+      ],
+      "message": "Message or Project Description",
+      "messagePlaceholder": "Describe your website or application requirements...",
+      "agreement": "I confirm that the information provided is accurate and agree to be contacted by the IamDev team regarding my project requirements.",
+      "submit": "Send Message via WhatsApp"
+    }
+  },
+
+  "footer": {
+    "description": "We design high-performance website architectures and exclusive digital solutions through precise technology engineering.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "contact": "Contact",
+    "operationalHours": "Every Day",
+    "tagline": "Building Digital Experiences, One Project at a Time.",
+    "copyright": "All rights reserved.",
+    "servicesList": [
+      {
+        "label": "Professional Landing Page",
+        "link": "/"
+      },
+      {
+        "label": "Business Systems & Applications",
+        "link": "/"
+      },
+      {
+        "label": "Mobile Applications",
+        "link": "/"
+      },
+      {
+        "label": "Desktop Applications",
+        "link": "/"
+      },
+      {
+        "label": "Custom Development",
+        "link": "/"
+      }
+    ],
+    "operatingHoursValue": "Every Day, 08:00–17:00 WIB"
+  },
+  "share": {
+    "title": "Share with...",
+    "whatsapp": "Share via WhatsApp",
+    "copyLink": "Copy link",
+    "copied": "Link copied successfully!",
+    "cancel": "Cancel",
+    "message": "Discover the right digital solutions for your business and development needs with IamDev. Visit our website to explore our services and solutions:"
+  },
+
+  "whatsapp": {
+    "consultationMessage": "Hello IamDev, I am interested in your digital development services.\n\nHere are the package details I would like to discuss:\n\nPackage Name: {{packageName}}\nPrice: {{packagePrice}}\n\nI would like to learn more about the included services, development process, and how the package can be tailored to my project requirements.\n\nI look forward to your information and guidance. Thank you.",
+
+    "technicalInquiryMessage": "Hello IamDev Team,\n\nI would like to discuss my digital project development requirements.\n\nThere are several aspects I would like to explore, particularly system planning, technology selection, application architecture, and project development timelines.\n\nI would appreciate the opportunity to discuss this further with your engineering team and receive recommendations for solutions that best fit my project requirements.\n\nThank you.",
+    "contactFormMessage": "*PROJECT CONSULTATION REQUEST*\n*IamDev | Digital Development Services*\n\nHello IamDev Team,\n\nI would like to request a consultation regarding my digital project development needs. Please find the details below:\n\n*CONTACT INFORMATION*\nName: {{nama}}\nEmail: {{email}}\nWhatsApp: {{wa}}\n\n*PROJECT REQUIREMENTS*\nService: {{jenisLayanan}}\nEstimated Budget: {{estimasiBudget}}\n\n*PROJECT DESCRIPTION*\n{{pesan}}\n\nI would appreciate the opportunity to discuss suitable solutions, the development scope, and the estimated project timeline.\n\nThank you for your time and consideration.\n\nBest regards,\n{{nama}}"
+  }
+}

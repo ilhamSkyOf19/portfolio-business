@@ -1,0 +1,809 @@
+{
+  "navigation": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "service": "Layanan",
+    "ourTeam": "Tim Kami",
+    "contact": "Kontak"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Studio Pengembangan Perangkat Lunak",
+      "title": "Merancang Solusi Digital untuk Bisnis",
+      "highlightTitle": "Modern.",
+      "description": "Studio rekayasa perangkat lunak dan desain digital yang berfokus pada perancangan serta pengembangan website, aplikasi web, desktop, dan Android dengan teknologi modern untuk memenuhi kebutuhan bisnis.",
+      "primaryButton": "Mulai Project",
+      "secondaryButton": "Lihat Layanan",
+      "trustPoints": [
+        "Kualitas Profesional",
+        "Teknologi Modern",
+        "Keamanan Terjamin"
+      ],
+      "floatingPerformanceTitle": "Performa Optimal",
+      "floatingPerformanceDescription": "Cepat & Responsif",
+      "floatingDesignTitle": "Desain Eksklusif",
+      "floatingDesignDescription": "Antarmuka Modern",
+      "floatingSupportStatus": "Ongoing",
+      "floatingSupportDescription": "Dukungan Berkelanjutan"
+    },
+    "technology": {
+      "title": "Standar Industri Modern",
+      "description": "Didukung teknologi modern untuk kecepatan dan reliabilitas tanpa kompromi."
+    },
+    "services": {
+      "eyebrow": "Layanan Arsitektur Digital",
+      "title": "Solusi Digital Terpadu untuk Pertumbuhan Bisnis Anda",
+      "description": "Kami menggabungkan desain UI/UX yang intuitif dengan arsitektur perangkat lunak yang cepat, modular, dan dirancang untuk mendukung kebutuhan bisnis.",
+      "viewAll": "Lihat Semua Spesifikasi Layanan",
+      "deliveryPrefix": "Delivery",
+      "consultationTitle": "Ingin estimasi biaya dan konsultasi gratis?",
+      "consultationDescription": "Dapatkan breakdown estimasi anggaran komprehensif tanpa kewajiban komitmen awal.",
+      "pricingButton": "Jelajahi Paket & Harga",
+      "items": {
+        "1": {
+          "title": "Landing Page Profesional",
+          "description": "Website dengan tampilan modern, responsif, dan mudah digunakan. Dilengkapi optimasi SEO untuk membantu website lebih mudah ditemukan melalui mesin pencari.",
+          "delivery": "1–2 Minggu"
+        },
+        "2": {
+          "title": "Sistem & Aplikasi Bisnis",
+          "description": "Kami merancang dan membangun berbagai sistem sesuai kebutuhan bisnis, mulai dari sistem laporan, sistem antrean, sistem kasir (POS), sistem booking, hingga sistem manajemen operasional yang terintegrasi.",
+          "delivery": "1–3 Bulan"
+        },
+        "3": {
+          "title": "Aplikasi Mobile",
+          "description": "Kami merancang dan membangun aplikasi Android sesuai kebutuhan bisnis, mulai dari sistem pemesanan, sistem manajemen, hingga aplikasi layanan pelanggan.",
+          "delivery": "1–3 Bulan"
+        },
+        "4": {
+          "title": "Aplikasi Desktop",
+          "description": "Kami mengembangkan aplikasi desktop untuk kebutuhan operasional bisnis, mulai dari sistem kasir (POS), sistem manajemen stok, hingga sistem administrasi yang dapat digunakan secara lokal maupun terhubung ke server.",
+          "delivery": "1–3 Bulan"
+        },
+        "5": {
+          "title": "Full Custom Development",
+          "description": "Kami menghadirkan solusi digital yang dirancang sepenuhnya sesuai kebutuhan bisnis, mulai dari perencanaan, desain UI/UX, hingga pengembangan sistem. Setiap fitur dan teknologi disesuaikan dengan kebutuhan serta kompleksitas proyek.",
+          "delivery": "Sesuai Kompleksitas Proyek"
+        }
+      }
+    },
+    "cta": {
+      "title": "Siap Mewujudkan Produk Digital Impian Anda?",
+      "description": "Konsultasikan kebutuhan teknis dan dapatkan estimasi roadmap serta estimasi biaya dalam 24 jam bersama tim tech lead kami.",
+      "contactButton": "Hubungi Tim Developer Kami",
+      "benefits": [
+        "Gratis Audit Arsitektur Awal",
+        "Response Cepat < 24 jam",
+        "Tanpa Biaya Tersembunyi"
+      ]
+    }
+  },
+
+  "about": {
+    "hero": {
+      "eyebrow": "Tentang IamDev Studio",
+      "title": "Kami Mengubah Ide Menjadi",
+      "highlightTitle": "Solusi Digital.",
+      "description": "IamDev adalah studio rekayasa perangkat lunak dan desain digital yang memadukan teknologi modern dengan kreativitas desain. Kami merancang pengalaman UI/UX serta mengembangkan website dan aplikasi web, mobile, hingga desktop yang inovatif, intuitif, dan sesuai kebutuhan bisnis.",
+      "values": ["Inovasi", "Presisi", "Kreativitas"]
+    },
+    "visionMission": {
+      "visionLabel": "Visi Kami",
+      "vision": "Menjadi mitra teknologi terpercaya dalam menghadirkan solusi digital yang inovatif, berkualitas, dan berdampak.",
+      "visionDescription": "Kami berkomitmen menghadirkan solusi digital berkualitas melalui teknologi modern, proses yang transparan, pengembangan yang terukur, serta kode yang mudah dikembangkan dan dipelihara untuk jangka panjang.",
+      "missionLabel": "Misi Strategis",
+      "missionTitle": "Tiga Pilar Operasional IamDev",
+      "missions": {
+        "1": {
+          "type": "Rekayasa Kode",
+          "title": "Kualitas Pengembangan",
+          "description": "Kami mengutamakan kualitas melalui perencanaan yang matang, pemilihan teknologi tepat, dan pengembangan sistem yang terstruktur. Setiap solusi dirancang agar memiliki performa optimal dan mudah dikembangkan sesuai kebutuhan bisnis."
+        },
+        "2": {
+          "type": "Desain Digital",
+          "title": "Desain Berorientasi Pengguna",
+          "description": "Kami percaya desain yang baik tidak hanya menarik secara visual, tetapi juga mudah digunakan. Kami memadukan estetika dengan pengalaman pengguna yang intuitif, responsif, dan nyaman di berbagai perangkat."
+        },
+        "3": {
+          "type": "Kolaborasi",
+          "title": "Kolaborasi Terbuka",
+          "description": "Kami mengutamakan komunikasi terbuka dalam setiap proses proyek. Dengan memahami kebutuhan dan melibatkan klien sejak awal, kami memastikan setiap solusi memiliki arah yang jelas dan sesuai harapan."
+        }
+      },
+      "principlesLabel": "Prinsip Utama",
+      "principlesTitle": "Core Values yang Menjiwai Setiap Baris Kode",
+      "principlesDescription": "Pedoman operasional tim IamDev dalam setiap deployment.",
+      "principles": [
+        {
+          "title": "Modular Architecture",
+          "description": "Struktur komponen modular, reusable, dan terorganisir untuk pengembangan sistem yang efisien."
+        },
+
+        {
+          "title": "Scalable Systems",
+          "description": "Arsitektur fleksibel yang mendukung penambahan fitur dan pertumbuhan kebutuhan bisnis."
+        },
+        {
+          "title": "Built-in Security",
+          "description": "Validasi input, sanitasi data, rate limiting, dan kontrol akses untuk perlindungan sistem."
+        },
+        {
+          "title": "User Experience",
+          "description": "Antarmuka intuitif, desain responsif, dan interaksi konsisten di berbagai perangkat."
+        }
+      ]
+    },
+    "technology": {
+      "eyebrow": "Stack Rekayasa Modern",
+      "title": "Teknologi & Tools Kelas Industri yang Kami Gunakan",
+      "description": "Setiap framework, bahasa, dan ekosistem database dipilih berdasarkan stabilitas, efisiensi eksekusi, serta dukungan komunitas jangka panjang.",
+      "stackLabel": "Stacks",
+      "categories": {
+        "frontend": {
+          "title": "Frontend Development",
+          "description": "Antarmuka pengguna, interaksi, dan pengalaman digital.",
+          "items": {
+            "React": {
+              "type": "UI Library",
+              "description": "Membangun antarmuka berbasis komponen yang interaktif dan reusable."
+            },
+            "TypeScript": {
+              "type": "Programming Language",
+              "description": "Menambahkan sistem tipe untuk kode yang lebih aman, terstruktur, dan mudah dikelola."
+            },
+            "JavaScript": {
+              "type": "Core Language",
+              "description": "Mengembangkan logika aplikasi, manipulasi data, dan interaksi dinamis."
+            },
+            "Tailwind CSS": {
+              "type": "CSS Framework",
+              "description": "Membangun tampilan responsif dengan utility-first CSS dan sistem desain konsisten."
+            },
+            "TanStack Query": {
+              "type": "Data Fetching",
+              "description": "Mengelola server state, caching, sinkronisasi data, dan proses fetching API secara efisien."
+            },
+            "Vite": {
+              "type": "Build Tool",
+              "description": "Mempercepat proses development dan build aplikasi frontend dengan tooling modern."
+            },
+            "DaisyUI": {
+              "type": "Component Library",
+              "description": "Menyediakan komponen UI siap pakai berbasis Tailwind CSS untuk mempercepat pengembangan antarmuka."
+            },
+            "React Hook Form": {
+              "type": "Form Management",
+              "description": "Mengelola input dan validasi form secara efisien dengan performa yang optimal."
+            },
+            "Axios": {
+              "type": "HTTP Client",
+              "description": "Mengelola komunikasi HTTP antara frontend dan backend melalui request dan response API."
+            }
+          }
+        },
+        "backend": {
+          "title": "Backend Development",
+          "description": "Logika aplikasi, API, dan pengelolaan server.",
+          "items": {
+            "Node.js": {
+              "type": "Runtime",
+              "description": "Menjalankan proses backend secara asynchronous untuk menangani berbagai request."
+            },
+            "Express.js": {
+              "type": "Framework",
+              "description": "Membangun REST API dengan routing terstruktur dan middleware yang fleksibel."
+            },
+            "Prisma ORM": {
+              "type": "Database Tool",
+              "description": "Mengelola database melalui query type-safe, pemodelan data, dan migrasi skema."
+            }
+          }
+        },
+        "database": {
+          "title": "Database & Storage",
+          "description": "Penyimpanan data, pengelolaan, dan integritas database.",
+          "items": {
+            "MySQL": {
+              "type": "RDBMS",
+              "description": "Mengelola data relasional dengan dukungan transaksi dan integritas data."
+            },
+            "MongoDB": {
+              "type": "NoSQL Database",
+              "description": "Database NoSQL berbasis dokumen yang fleksibel untuk menyimpan dan mengelola data aplikasi."
+            },
+            "SQLite": {
+              "type": "Local Database",
+              "description": "Penyimpanan database lokal yang ringan untuk aplikasi desktop dan offline."
+            }
+          }
+        },
+        "tools": {
+          "title": "Tools & Design",
+          "description": "Desain antarmuka, version control, dan pengelolaan proyek.",
+          "items": {
+            "Figma": {
+              "type": "UI/UX Design",
+              "description": "Merancang antarmuka, prototipe interaktif, dan sistem desain digital."
+            },
+            "Git": {
+              "type": "Version Control",
+              "description": "Mengelola riwayat perubahan kode dan mendukung kolaborasi pengembangan."
+            },
+            "GitHub": {
+              "type": "Code Repository",
+              "description": "Mengelola repository, pull request, dan kolaborasi pengembangan perangkat lunak."
+            },
+            "Lucide Icons": {
+              "type": "Icon Library",
+              "description": "Menyediakan koleksi ikon SVG yang ringan, konsisten, dan mudah digunakan dalam pengembangan antarmuka React."
+            },
+            "Tabler Icons": {
+              "type": "Icon Library",
+              "description": "Menyediakan koleksi ikon SVG dengan berbagai pilihan gaya untuk membangun antarmuka yang konsisten."
+            }
+          }
+        },
+        "crossPlatform": {
+          "title": "Desktop & Mobile Development",
+          "description": "Pengembangan aplikasi lintas platform.",
+          "items": {
+            "Electron": {
+              "type": "Desktop Framework",
+              "description": "Mengembangkan aplikasi desktop lintas platform menggunakan teknologi web."
+            },
+            "React Native": {
+              "type": "Mobile Framework",
+              "description": "Membangun aplikasi mobile Android dengan pendekatan pengembangan berbasis React."
+            }
+          }
+        },
+        "security": {
+          "title": "Security & Validation",
+          "description": "Validasi data, autentikasi, dan perlindungan API.",
+          "items": {
+            "Zod": {
+              "type": "Schema Validation",
+              "description": "Memvalidasi struktur dan tipe data menggunakan skema untuk memastikan input dan request sesuai aturan."
+            },
+            "JWT": {
+              "type": "Authentication",
+              "description": "Mengelola autentikasi berbasis token untuk menjaga keamanan akses dan identitas pengguna."
+            },
+            "Express Rate Limit": {
+              "type": "API Protection",
+              "description": "Membatasi jumlah request dalam periode tertentu untuk mengurangi penyalahgunaan dan serangan berulang pada API."
+            },
+            "CORS": {
+              "type": "Cross-Origin Security",
+              "description": "Mengatur kebijakan akses antar origin untuk mengontrol komunikasi antara frontend dan backend."
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "service": {
+    "hero": {
+      "eyebrow": "Layanan & Harga Transparan",
+      "firstTitle": "Solusi Pengembangan Web",
+      "secondTitle": "Tailor-Made",
+      "thirdTitle": "Sesuai Kebutuhan Anda",
+      "description": "Pilih paket pengembangan yang paling tepat untuk skala bisnis Anda, mulai dari peluncuran produk cepat hingga infrastruktur aplikasi web kustom enterprise.",
+      "highlights": [
+        {
+          "value": "100%",
+          "title": "Kepemilikan Source Code oleh Klien"
+        },
+        {
+          "value": "24/7",
+          "title": "Akses Website Setiap Saat"
+        },
+        {
+          "value": "3–12",
+          "title": "Minggu Estimasi Pengerjaan"
+        },
+        {
+          "value": "0%",
+          "title": "Biaya Lisensi Tersembunyi"
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Arsitektur Digital",
+      "title": "Kategori Layanan Rekayasa Web",
+      "description": "Kami memadukan estetika visual mutakhir dengan arsitektur kode clean, modular, dan teruji performanya di level produksi.",
+      "benefitsTitle": "Yang Anda Dapatkan",
+      "items": {
+        "landing-page": {
+          "category": "LANDING PAGE",
+          "title": "Landing Page Konversi Tinggi",
+          "description": "Website untuk kebutuhan promosi produk, kampanye marketing, atau peluncuran produk digital dengan performa optimal dan struktur konten persuasif.",
+          "features": [
+            "Desain responsif mobile-first untuk berbagai ukuran perangkat",
+            "Call-To-Action (CTA) berorientasi konversi",
+            "Mendukung website promosi, product launch, campaign, dan personal branding",
+            "SEO dasar on-page, Open Graph metadata, dan Google Analytics"
+          ],
+          "benefits": [
+            {
+              "title": "Desain Profesional",
+              "description": "Tampilan modern sesuai identitas brand."
+            },
+            {
+              "title": "SEO Friendly",
+              "description": "Lebih mudah ditemukan di mesin pencari."
+            },
+            {
+              "title": "Mobile Responsive",
+              "description": "Optimal di berbagai ukuran perangkat."
+            },
+            {
+              "title": "Mudah Dikelola",
+              "description": "Konten mudah diperbarui kapan saja."
+            }
+          ]
+        },
+        "business-system": {
+          "category": "BUSINESS SYSTEM",
+          "title": "Sistem & Aplikasi Bisnis",
+          "description": "Solusi sistem digital untuk membantu mengelola dan mengoptimalkan operasional bisnis, mulai dari administrasi, transaksi, manajemen data, hingga pelaporan.",
+          "features": [
+            "Sistem manajemen data dan administrasi bisnis",
+            "Sistem transaksi, kasir (POS), dan booking",
+            "Dashboard monitoring dan laporan operasional",
+            "Manajemen pengguna, hak akses, dan keamanan data"
+          ],
+          "benefits": [
+            {
+              "title": "Operasional Efisien",
+              "description": "Proses bisnis lebih praktis dan cepat."
+            },
+            {
+              "title": "Data Terpusat",
+              "description": "Data bisnis tersimpan lebih terstruktur."
+            },
+            {
+              "title": "Akses Terkontrol",
+              "description": "Hak akses sesuai peran pengguna."
+            },
+            {
+              "title": "Monitoring Bisnis",
+              "description": "Pantau aktivitas melalui satu dashboard."
+            }
+          ]
+        },
+        "mobile-app": {
+          "category": "MOBILE APPLICATION",
+          "title": "Aplikasi Mobile Modern",
+          "description": "Aplikasi mobile yang dirancang untuk membantu bisnis menjangkau pelanggan lebih luas, memberikan kemudahan akses layanan, dan menghadirkan pengalaman penggunaan yang praktis.",
+          "features": [
+            "Pengembangan aplikasi Android sesuai kebutuhan",
+            "Antarmuka modern dan mudah digunakan",
+            "Integrasi API dan database untuk pengelolaan data",
+            "Fitur autentikasi, notifikasi, dan manajemen pengguna"
+          ],
+          "benefits": [
+            {
+              "title": "UI/UX Intuitif",
+              "description": "Navigasi mudah dan nyaman digunakan."
+            },
+            {
+              "title": "Performa Optimal",
+              "description": "Responsif dan nyaman digunakan."
+            },
+            {
+              "title": "Integrasi Data",
+              "description": "Terhubung dengan API dan server."
+            },
+            {
+              "title": "Fitur Fleksibel",
+              "description": "Fitur sesuai kebutuhan bisnis."
+            }
+          ]
+        },
+        "desktop-app": {
+          "category": "DESKTOP APPLICATION",
+          "title": "Aplikasi Desktop Terintegrasi",
+          "description": "Aplikasi desktop untuk mendukung kebutuhan operasional bisnis dengan kemampuan pengelolaan data lokal, proses kerja yang efisien, serta integrasi dengan server.",
+          "features": [
+            "Aplikasi desktop untuk Windows",
+            "Penyimpanan database lokal menggunakan SQLite",
+            "Dukungan penggunaan offline dan sinkronisasi data",
+            "Integrasi server untuk pertukaran dan pembaruan data"
+          ],
+          "benefits": [
+            {
+              "title": "Aplikasi Desktop",
+              "description": "Akses langsung melalui perangkat komputer."
+            },
+            {
+              "title": "Database Lokal",
+              "description": "Data tersimpan di perangkat lokal."
+            },
+            {
+              "title": "Sinkronisasi Data",
+              "description": "Data lokal terhubung dengan server."
+            },
+            {
+              "title": "Akses Lebih Praktis",
+              "description": "Bekerja tanpa bergantung pada browser."
+            }
+          ]
+        },
+        "custom-development": {
+          "category": "CUSTOM DEVELOPMENT",
+          "title": "Full Custom Development",
+          "description": "Solusi digital yang dibangun sepenuhnya berdasarkan kebutuhan bisnis Anda, mulai dari perencanaan, perancangan UI/UX, pengembangan frontend dan backend, hingga integrasi berbagai layanan.",
+          "features": [
+            "Pengembangan sistem berdasarkan kebutuhan khusus",
+            "Perancangan UI/UX dan arsitektur aplikasi",
+            "Integrasi API, database, dan layanan pihak ketiga",
+            "Pengembangan fitur dan skalabilitas sesuai kebutuhan"
+          ],
+          "benefits": [
+            {
+              "title": "Solusi Eksklusif",
+              "description": "Dibangun sesuai kebutuhan bisnis."
+            },
+            {
+              "title": "Arsitektur Fleksibel",
+              "description": "Mudah dikembangkan dan disesuaikan."
+            },
+            {
+              "title": "Fitur Menyeluruh",
+              "description": "Fungsionalitas sesuai kebutuhan proyek."
+            },
+            {
+              "title": "Pengembangan Terarah",
+              "description": "Dikerjakan dengan perencanaan matang."
+            }
+          ]
+        }
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investasi Terencana",
+      "title": "Pilihan Paket Investasi Digital",
+      "description": "Struktur harga transparan tanpa biaya tersembunyi. Setiap paket didukung standar rekayasa kode kualitas tinggi dan garansi pemeliharaan.",
+      "recommended": "REKOMENDASI UTAMA",
+      "button": "Konsultasikan Paket Ini",
+      "noteTitle": "Catatan Penting",
+      "note": "Seluruh estimasi harga dapat disesuaikan dengan tingkat kompleksitas, volume fitur, serta integrasi sistem pihak ketiga yang spesifik untuk project Anda.",
+      "packages": [
+        {
+          "id": "starter",
+          "name": "Paket Starter",
+          "label": "UMKM & Individu",
+          "description": "Pilihan tepat untuk individu dan UMKM yang ingin membangun kehadiran digital melalui website sederhana, modern, dan profesional.",
+          "price": 1500000,
+          "pricePrefix": "",
+          "billing": "Project one-off fee",
+          "recommended": false,
+          "features": [
+            "Landing Page Satu Halaman",
+            "Hingga 5 Section Konten",
+            "Desain Modern dan Responsif",
+            "Tampilan Optimal Mobile & Desktop",
+            "Integrasi WhatsApp",
+            "SEO On-Page Dasar",
+            "Optimasi Gambar dan Aset",
+            "Maintenance Berkala",
+            "Gratis Maintenance Bulan Pertama",
+            "Gratis Revisi untuk Perubahan Minor",
+            "Website Siap Digunakan untuk Membangun Kehadiran Digital"
+          ],
+          "buttonText": "Konsultasikan Paket Ini"
+        },
+        {
+          "id": "professional",
+          "name": "Paket Professional",
+          "label": "Bisnis Berkembang",
+          "description": "Website bisnis profesional dengan desain custom, halaman informatif, dan fitur interaktif untuk meningkatkan kredibilitas serta memperluas jangkauan bisnis.",
+          "price": 4500000,
+          "pricePrefix": "",
+          "billing": "Project one-off fee",
+          "recommended": true,
+          "features": [
+            "Company Profile Hingga 5 Halaman",
+            "Custom UI/UX Design Sesuai Brand",
+            "Responsive Design Semua Perangkat",
+            "Animasi dan Interaksi Website",
+            "Halaman Layanan, Produk & Portofolio",
+            "Formulir Kontak & Integrasi WhatsApp",
+            "SEO On-Page & Optimasi Metadata",
+            "Integrasi Google Analytics",
+            "Optimasi Performa dan Kecepatan",
+            "Maintenance Berkala",
+            "Gratis Maintenance Bulan Pertama",
+            "Gratis Revisi untuk Perubahan Minor",
+            "CMS Sederhana untuk Mengelola Konten Website"
+          ],
+          "buttonText": "Konsultasikan Paket Ini"
+        },
+        {
+          "id": "enterprise",
+          "name": "Paket Enterprise",
+          "label": "Bisnis & Perusahaan",
+          "description": "Solusi digital yang dirancang khusus untuk kebutuhan bisnis dengan sistem terintegrasi, pengelolaan data, otomatisasi proses, dan fungsionalitas sesuai alur operasional.",
+          "price": 8500000,
+          "pricePrefix": "Mulai dari",
+          "billing": "Custom scope proposal",
+          "recommended": false,
+          "features": [
+            "Full Custom Website & Application",
+            "Pengembangan Frontend & Backend",
+            "Custom UI/UX dan Arsitektur Sistem",
+            "Dashboard dan Manajemen Data",
+            "Database Design & Integration",
+            "Autentikasi dan Manajemen Pengguna",
+            "Multi-Role & Permission Management",
+            "Integrasi REST API dan Third-Party Services",
+            "Testing dan Quality Assurance",
+            "Deployment dan Konfigurasi Server",
+            "Maintenance Berkala",
+            "Gratis Maintenance Bulan Pertama",
+            "Gratis Revisi untuk Perubahan Minor",
+            "Custom Business Logic & Workflow Sesuai Kebutuhan Bisnis"
+          ],
+          "buttonText": "Konsultasikan Paket Ini"
+        }
+      ]
+    },
+    "workflow": {
+      "eyebrow": "Alur Kerja Terstruktur",
+      "title": "Bagaimana Kami Membangun Solusi Anda",
+      "description": "Metodologi sprint modular kami memastikan visibilitas penuh bagi stakeholder dari hari pertama hingga rilis resmi di server.",
+      "steps": [
+        {
+          "title": "Diskusi & Perencanaan",
+          "description": "Kami memahami kebutuhan, tujuan, dan fitur yang Anda inginkan sebelum memulai pengerjaan."
+        },
+        {
+          "title": "Desain & Pengembangan",
+          "description": "Kami merancang tampilan dan membangun website atau aplikasi sesuai kebutuhan proyek Anda."
+        },
+        {
+          "title": "Pengujian & Perbaikan",
+          "description": "Kami memastikan setiap fitur berjalan dengan baik, tampilan responsif, dan sistem berfungsi sesuai harapan."
+        },
+        {
+          "title": "Peluncuran & Serah Terima",
+          "description": "Website atau aplikasi siap digunakan. Kami juga membantu proses publikasi dan memberikan panduan penggunaan."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Pertanyaan Umum",
+      "title": "Klarifikasi & FAQ Project",
+      "description": "Semua hal yang perlu Anda ketahui mengenai skema kerja sama, legalitas source code, dan pemeliharaan lanjutan.",
+      "items": [
+        {
+          "question": "Layanan apa saja yang tersedia di IamDev?",
+          "answer": [
+            "IamDev menyediakan berbagai solusi digital yang dapat disesuaikan dengan kebutuhan Anda, meliputi:"
+          ],
+          "points": [
+            "Landing Page untuk promosi dan personal branding.",
+            "Business System untuk membantu operasional bisnis.",
+            "Mobile Application untuk perangkat smartphone.",
+            "Desktop Application untuk kebutuhan aplikasi komputer.",
+            "Custom Development untuk solusi digital dengan kebutuhan khusus."
+          ]
+        },
+        {
+          "question": "Apa perbedaan paket Starter, Professional, dan Enterprise?",
+          "answer": [
+            "Setiap paket dirancang untuk kebutuhan dan tingkat kompleksitas proyek yang berbeda."
+          ],
+          "points": [
+            "Starter: Cocok untuk individu dan UMKM yang membutuhkan landing page sederhana dan profesional.",
+            "Professional: Cocok untuk bisnis berkembang yang membutuhkan website company profile dengan halaman dan fitur lebih lengkap.",
+            "Enterprise: Ditujukan untuk bisnis atau perusahaan yang membutuhkan website, aplikasi, maupun sistem khusus sesuai alur operasional."
+          ]
+        },
+        {
+          "question": "Bagaimana sistem pembayaran proyek di IamDev?",
+          "answer": [
+            "Pembayaran dilakukan secara bertahap berdasarkan kesepakatan sebelum proyek dimulai. Skema pembayaran dapat disesuaikan dengan nilai dan kompleksitas proyek.",
+            "Rincian biaya, tahapan pembayaran, dan ruang lingkup pekerjaan akan disampaikan terlebih dahulu agar kedua pihak memiliki kesepakatan yang jelas."
+          ]
+        },
+        {
+          "question": "Berapa lama proses pengerjaan website atau aplikasi?",
+          "answer": [
+            "Waktu pengerjaan bergantung pada jenis proyek, jumlah fitur, dan tingkat kompleksitasnya.",
+            "Landing page umumnya membutuhkan waktu lebih singkat dibandingkan website multi-halaman atau aplikasi dengan sistem backend. Estimasi waktu akan disampaikan setelah kebutuhan proyek dibahas dan ruang lingkup pekerjaan disepakati."
+          ]
+        },
+        {
+          "question": "Apakah saya mendapatkan revisi gratis setelah hasil pengerjaan selesai?",
+          "answer": [
+            "Ya. IamDev memberikan revisi gratis untuk perubahan minor selama tidak mengubah struktur utama atau menambah fungsionalitas kompleks di luar kesepakatan awal.",
+            "Untuk perubahan yang membutuhkan pengerjaan lebih besar atau kompleks, biaya tambahan akan disesuaikan dengan tingkat kesulitan dan ruang lingkup perubahan."
+          ]
+        },
+        {
+          "question": "Apakah website dan aplikasi mendapatkan maintenance?",
+          "answer": [
+            "Ya. Setiap proyek mendapatkan layanan maintenance berkala untuk membantu menjaga website atau aplikasi tetap berjalan dengan baik.",
+            "Maintenance diberikan secara gratis selama satu bulan pertama setelah proyek diselesaikan. Setelah periode tersebut, layanan maintenance selanjutnya dapat dilanjutkan berdasarkan kesepakatan biaya dan kebutuhan layanan."
+          ]
+        },
+        {
+          "question": "Apakah source code dan hasil proyek menjadi milik klien?",
+          "answer": [
+            "Ya. Hasil pengembangan dan source code proyek diserahkan kepada klien setelah kewajiban pembayaran diselesaikan sesuai kesepakatan.",
+            "Penyerahan mencakup source code dan aset proyek yang memang dibuat khusus untuk klien. Lisensi aset atau layanan pihak ketiga tetap mengikuti ketentuan masing-masing penyedia."
+          ]
+        },
+        {
+          "question": "Bagaimana jika saya belum mengetahui jenis website atau aplikasi yang dibutuhkan?",
+          "answer": [
+            "Tidak masalah. Anda dapat berkonsultasi terlebih dahulu dengan IamDev untuk menjelaskan ide, kebutuhan, dan tujuan bisnis Anda.",
+            "Kami akan membantu menentukan jenis solusi digital, fitur, serta pendekatan pengembangan yang paling sesuai dengan kebutuhan proyek."
+          ]
+        }
+      ],
+      "contactCtaTitle": "Punya pertanyaan teknis spesifik untuk proyek Anda?",
+      "contactCtaDescription": "Tim engineering kami siap berdiskusi mengenai arsitektur sistem, pemilihan database, atau estimasi waktu pengerjaan khusus.",
+      "contactButton": "Hubungi Admin Kami",
+      "techStackButton": "Lihat Tech Stack Kami"
+    }
+  },
+
+  "team": {
+    "hero": {
+      "eyebrow": "Kenali Tim Kami",
+      "firstTitle": "Orang-Orang Berbakat di Balik Setiap Baris",
+      "secondTitle": "Kode",
+      "description": "Kami adalah tim kecil yang memadukan keahlian teknis, kreativitas, dan pengelolaan proyek untuk menghadirkan solusi digital yang berkualitas.",
+      "highlights": [
+        {
+          "value": "100%",
+          "title": "Komitmen & Dedikasi"
+        },
+        {
+          "value": "Tim",
+          "title": "Kreatif & Profesional"
+        },
+        {
+          "value": "4 Tahap",
+          "title": "Proses Kerja Terstruktur"
+        },
+        {
+          "value": "Fullstack",
+          "title": "Pengembangan Menyeluruh"
+        }
+      ]
+    },
+    "connect": "Connect",
+    "members": {
+      "1": {
+        "role": "Software Engineer & Founder",
+        "position": "Software Engineer & Founder",
+        "description": "Memimpin arah pengembangan teknologi, merancang arsitektur sistem, serta mengembangkan solusi digital yang inovatif, efisien, dan sesuai kebutuhan setiap proyek IamDev."
+      },
+      "2": {
+        "role": "Admin & Co-Founder",
+        "position": "Admin & Co-Founder",
+        "description": "Mengelola administrasi dan dokumentasi proyek, mengatur kebutuhan operasional, serta memastikan pengelolaan data dan pekerjaan tim berjalan dengan terstruktur."
+      }
+    }
+  },
+
+  "contact": {
+    "hero": {
+      "eyebrow": "Mulai Kolaborasi",
+      "firstTitle": "Mari Wujudkan Sesuatu yang",
+      "secondTitle": "Luar Biasa",
+      "thirdTitle": "Bersama.",
+      "description": "Diskusikan visi produk digital Anda dengan tim kami. Kami siap memberikan konsultasi teknis, estimasi roadmap, dan solusi terbaik untuk bisnis Anda.",
+      "responseTime": "Average SLA: < 15 mins"
+    },
+    "details": {
+      "eyebrow": "Quick Line • Metro, Lampung",
+      "title": "Saluran Komunikasi Langsung",
+      "description": "Hubungi kami melalui kanal instan WhatsApp untuk respons cepat atau jadwalkan sesi audit teknis bersama principal architect.",
+      "whatsappTitle": "Chat Langsung via WhatsApp",
+      "officialEmail": "Email Resmi",
+      "officialPhone": "Telepon Resmi",
+      "address": "Alamat",
+      "operatingHours": "Jam Operasional",
+      "operatingHoursValue": "Setiap Hari, 08:00 - 17:00 WIB",
+      "timezone": "UTC+07 (Jakarta Timezone)",
+      "socialProfiles": "Social Repositories & Profiles",
+      "serviceGuarantee": "Jaminan Layanan IamDev",
+      "guarantees": [
+        "Respons dalam < 24 Jam Kerja Dijamin",
+        "Perjanjian Kerahasiaan (Mutual NDA) Tersedia",
+        "Konsultasi Teknis & Arsitektur Awal 100% Gratis"
+      ]
+    },
+    "form": {
+      "title": "Kirim Formulir Permintaan Proyek",
+      "description": "Isi formulir untuk membuat template pesan WhatsApp sesuai kebutuhan proyek Anda.",
+      "fullName": "Nama Lengkap",
+      "fullNamePlaceholder": "contoh: Ilham Rohmatulloh",
+      "email": "Email",
+      "emailPlaceholder": "contoh: nama@email.com",
+      "whatsapp": "Nomor WhatsApp",
+      "whatsappPlaceholder": "contoh: 0858-9689-0881",
+      "serviceType": "Jenis Layanan",
+      "servicePlaceholder": "Pilih spesifikasi layanan",
+      "budget": "Estimasi Alokasi Budget",
+      "budgetHint": "Pilih perkiraan dana proyek",
+      "budgetOptions": [
+        {
+          "value": "lt-3jt",
+          "label": "< Rp 3 Juta"
+        },
+        {
+          "value": "3jt-7jt",
+          "label": "Rp 3–7 Juta"
+        },
+        {
+          "value": "7jt-10jt",
+          "label": "Rp 7–10 Juta"
+        },
+        {
+          "value": "gt-10jt",
+          "label": "> Rp 10 Juta"
+        }
+      ],
+      "message": "Pesan atau Deskripsi Project",
+      "messagePlaceholder": "Jelaskan kebutuhan website Anda...",
+      "agreement": "Saya menyetujui bahwa informasi yang saya berikan sudah benar dan bersedia dihubungi oleh tim IamDev terkait kebutuhan proyek saya.",
+      "submit": "Kirim Pesan ke WhatsApp"
+    }
+  },
+
+  "footer": {
+    "description": "Merancang arsitektur website berkinerja tinggi dan solusi digital eksklusif dengan rekayasa teknologi yang presisi.",
+    "navigation": "Navigasi",
+    "services": "Layanan",
+    "contact": "Kontak",
+    "operationalHours": "Setiap Hari",
+    "tagline": "Membangun Pengalaman Digital, Satu Proyek Dalam Satu Waktu.",
+    "copyright": "All rights reserved.",
+    "operatingHoursValue": "Setiap Hari, 08:00 - 17:00 WIB",
+
+    "servicesList": [
+      {
+        "label": "Landing Page Profesional",
+        "link": "/"
+      },
+      {
+        "label": "Sistem & Aplikasi Bisnis",
+        "link": "/"
+      },
+      {
+        "label": "Aplikasi Mobile",
+        "link": "/"
+      },
+      {
+        "label": "Aplikasi Desktop",
+        "link": "/"
+      },
+      {
+        "label": "Full Custom Development",
+        "link": "/"
+      }
+    ]
+  },
+
+  "share": {
+    "title": "Bagikan ke...",
+    "whatsapp": "Bagikan WhatsApp",
+    "copyLink": "Salin tautan",
+    "copied": "Tautan berhasil disalin!",
+    "cancel": "Batal",
+    "message": "Temukan solusi digital yang tepat untuk kebutuhan bisnis dan pengembangan Anda bersama IamDev. Kunjungi website kami untuk mengenal layanan dan solusi yang kami tawarkan:"
+  },
+
+  "whatsapp": {
+    "consultationMessage": "Halo IamDev, saya tertarik untuk menggunakan layanan pengembangan digital yang ditawarkan.\n\nBerikut paket yang ingin saya konsultasikan:\n\nNama Paket: {{packageName}}\nHarga: {{packagePrice}}\n\nSaya ingin mengetahui lebih lanjut mengenai detail layanan, proses pengerjaan, serta penyesuaian kebutuhan proyek pada paket tersebut.\n\nMohon informasi dan arahan lebih lanjut. Terima kasih.",
+    "technicalInquiryMessage": "Halo Tim IamDev,\n\nSaya ingin berkonsultasi mengenai kebutuhan pengembangan proyek digital.\n\nSaya memiliki beberapa hal yang ingin didiskusikan, terutama terkait perencanaan sistem, pemilihan teknologi, arsitektur aplikasi, serta estimasi pengerjaan proyek.\n\nSaya berharap dapat berdiskusi lebih lanjut dengan tim engineering IamDev untuk mendapatkan rekomendasi solusi yang sesuai dengan kebutuhan proyek saya.\n\nTerima kasih.",
+    "contactFormMessage": "*PERMINTAAN KONSULTASI PROYEK*\n*IamDev | Digital Development Services*\n\nHalo Tim IamDev,\n\nSaya ingin mengajukan konsultasi terkait kebutuhan pengembangan proyek digital. Berikut informasi yang telah saya siapkan:\n\n*INFORMASI KONTAK*\nNama: {{nama}}\nEmail: {{email}}\nWhatsApp: {{wa}}\n\n*DETAIL KEBUTUHAN PROYEK*\nJenis Layanan: {{jenisLayanan}}\nEstimasi Anggaran: {{estimasiBudget}}\n\n*DESKRIPSI PROYEK*\n{{pesan}}\n\nSaya berharap dapat berdiskusi lebih lanjut mengenai solusi yang sesuai, ruang lingkup pengembangan, serta estimasi pengerjaan proyek.\n\nTerima kasih atas waktu dan perhatiannya.\n\nSalam,\n{{nama}}"
+  }
+}

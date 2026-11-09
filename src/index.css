@@ -1,0 +1,356 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes:
+    light --default,
+    dark;
+}
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/poppins/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/poppins/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/poppins/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/fonts/poppins/Poppins-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  color-scheme: light;
+
+  --color-primary: #2975fe;
+
+  --surface: #f9fbff;
+  --on-surface: #202b3c;
+  --surface-container: #edf3ff;
+  --surface-container-low: #f5f8ff;
+
+  --primary-fixed: #dce8ff;
+}
+
+@plugin "daisyui/theme" {
+  name: "dark";
+  color-scheme: dark;
+  --color-primary: #2975fe;
+
+  /* Surface */
+  --surface: #141b2d;
+  --on-surface: #e1e7f2;
+  --surface-container: #202b40;
+  --surface-container-low: #192338;
+
+  --primary-fixed: #263b5c;
+}
+
+@theme {
+  --font-sans: "Poppins", sans-serif;
+
+  /* Primary */
+  --color-primary-dark: #141b2d;
+  --color-primary-light: #3780ff;
+  --color-on-primary: #ffffff;
+  --color-primary-fixed-dim: #b7d0ff;
+  --color-primary-container: #dce8ff;
+  --color-on-primary-container: #123c88;
+  --color-on-primary-fixed: #001b49;
+  --color-on-primary-fixed-variant: #174da8;
+
+  /* Secondary */
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #e2edff;
+  --color-on-secondary-container: #17458f;
+  --color-secondary-fixed: #e2edff;
+  --color-secondary-fixed-dim: #c2d8ff;
+  --color-on-secondary-fixed: #082653;
+  --color-on-secondary-fixed-variant: #28549a;
+
+  /* Tertiary */
+  --color-tertiary: #3555a5;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #dfe7ff;
+  --color-on-tertiary-container: #1b3679;
+  --color-tertiary-fixed: #dfe7ff;
+  --color-tertiary-fixed-dim: #bdccff;
+  --color-on-tertiary-fixed: #0b2054;
+  --color-on-tertiary-fixed-variant: #304d91;
+
+  /* Surface */
+  --color-surface: #f9fbff;
+  --color-on-surface: #202b3c;
+  --color-surface-dim: #dce3ef;
+  --color-surface-bright: #ffffff;
+  --color-surface-variant: #e8efff;
+  --color-on-surface-variant: #4c5b72;
+  --color-surface-tint: #2975fe;
+
+  /* Surface Container */
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f5f8ff;
+  --color-surface-container: #edf3ff;
+  --color-surface-container-high: #e5edfc;
+  --color-surface-container-highest: #dce6f8;
+
+  /* Background */
+  --color-background: #f9fbff;
+  --color-on-background: #202b3c;
+
+  /* Outline */
+  --color-outline: #77869e;
+  --color-outline-variant: #cbd6e7;
+
+  /* Error */
+  --color-on-error: #ffffff;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+
+  /* Inverse */
+  --color-inverse-surface: #29364b;
+  --color-inverse-on-surface: #f1f5ff;
+  --color-inverse-primary: #b7d0ff;
+
+  --spacing-space-xs: 0.625rem;
+  --spacing-space-sm: 1.25rem;
+  --spacing-space-md: 2.5rem;
+  --spacing-space-lg: 5rem;
+
+  --gap-space-xs: 0.625rem;
+  --gap-space-sm: 1.25rem;
+  --gap-space-md: 2.5rem;
+  --gap-space-lg: 5rem;
+}
+
+@theme inline {
+  --color-surface: var(--surface);
+  --color-on-surface: var(--on-surface);
+  --color-surface-container: var(--surface-container);
+  --color-surface-container-low: var(--surface-container-low);
+  --color-primary-fixed: var(--primary-fixed);
+}
+
+/* Tema dark menggunakan warna bawaan DaisyUI */
+[data-theme="dark"] {
+  /* Primary */
+  --color-on-primary: #002e75;
+  --color-primary-fixed: #dce8ff;
+  --color-primary-fixed-dim: #b7d0ff;
+  --color-primary-container: #174da8;
+  --color-on-primary-container: #dce8ff;
+  --color-on-primary-fixed: #001b49;
+  --color-on-primary-fixed-variant: #174da8;
+
+  /* Secondary */
+  --color-on-secondary: #082653;
+  --color-secondary-container: #28549a;
+  --color-on-secondary-container: #e2edff;
+  --color-secondary-fixed: #e2edff;
+  --color-secondary-fixed-dim: #c2d8ff;
+  --color-on-secondary-fixed: #082653;
+  --color-on-secondary-fixed-variant: #28549a;
+
+  /* Tertiary */
+  --color-tertiary: #bdccff;
+  --color-on-tertiary: #1b3679;
+  --color-tertiary-container: #304d91;
+  --color-on-tertiary-container: #dfe7ff;
+  --color-tertiary-fixed: #dfe7ff;
+  --color-tertiary-fixed-dim: #bdccff;
+  --color-on-tertiary-fixed: #0b2054;
+  --color-on-tertiary-fixed-variant: #304d91;
+
+  /* Surface */
+  --color-surface: #141b2d;
+  --color-on-surface: #e1e7f2;
+  --color-surface-dim: #101727;
+  --color-surface-bright: #34425b;
+  --color-surface-variant: #29364b;
+  --color-on-surface-variant: #b8c5dc;
+  --color-surface-tint: #8eb5ff;
+
+  /* Surface Container */
+  --color-surface-container-lowest: #101727;
+  --color-surface-container-low: #192338;
+  --color-surface-container: #202b40;
+  --color-surface-container-high: #29364b;
+  --color-surface-container-highest: #34425b;
+
+  /* Background */
+  --color-background: #141b2d;
+  --color-on-background: #e1e7f2;
+
+  /* Outline */
+  --color-outline: #8999b3;
+  --color-outline-variant: #465570;
+
+  /* Error */
+  --color-on-error: #690005;
+  --color-error-container: #93000a;
+  --color-on-error-container: #ffdad6;
+
+  /* Inverse */
+  --color-inverse-surface: #e1e7f2;
+  --color-inverse-on-surface: #29364b;
+  --color-inverse-primary: #2975fe;
+
+  /* Custom Surface */
+  --surface: #141b2d;
+  --on-surface: #e1e7f2;
+  --surface-container: #202b40;
+  --surface-container-low: #192338;
+}
+
+@layer base {
+  html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+  }
+
+  html::-webkit-scrollbar {
+    display: none;
+  }
+
+  body {
+    color: var(--color-base-content);
+  }
+
+  button {
+    cursor: pointer;
+  }
+}
+
+@utility p-space-* {
+  padding: --value(--spacing-space-*);
+}
+
+@utility pt-space-* {
+  padding-top: --value(--spacing-space-*);
+}
+
+@utility pr-space-* {
+  padding-right: --value(--spacing-space-*);
+}
+
+@utility pb-space-* {
+  padding-bottom: --value(--spacing-space-*);
+}
+
+@utility pl-space-* {
+  padding-left: --value(--spacing-space-*);
+}
+
+@utility px-space-* {
+  padding-left: --value(--spacing-space-*);
+  padding-right: --value(--spacing-space-*);
+}
+
+@utility py-space-* {
+  padding-top: --value(--spacing-space-*);
+  padding-bottom: --value(--spacing-space-*);
+}
+
+@utility mt-space-* {
+  margin-top: --value(--spacing-space-*);
+}
+
+@utility mr-space-* {
+  margin-right: --value(--spacing-space-*);
+}
+
+@utility mb-space-* {
+  margin-bottom: --value(--spacing-space-*);
+}
+
+@utility ml-space-* {
+  margin-left: --value(--spacing-space-*);
+}
+
+@utility mx-space-* {
+  margin-left: --value(--spacing-space-*);
+  margin-right: --value(--spacing-space-*);
+}
+
+@utility my-space-* {
+  margin-top: --value(--spacing-space-*);
+  margin-bottom: --value(--spacing-space-*);
+}
+
+@utility m-space-* {
+  margin: --value(--spacing-space-*);
+}
+
+@utility gap-space-* {
+  gap: --value(--gap-space-*);
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Radial spread animation */
+@keyframes spread-out {
+  0% {
+    transform: translate(0, 0) rotate(0deg) scale(0.3);
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 1;
+  }
+
+  65% {
+    transform: translate(
+        calc(var(--spread-x) * 1.08),
+        calc(var(--spread-y) * 1.08)
+      )
+      rotate(var(--spread-rotate)) scale(1.05);
+  }
+
+  100% {
+    transform: translate(var(--spread-x), var(--spread-y))
+      rotate(var(--spread-rotate)) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-spread {
+  animation: spread-out 1.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: var(--delay, 0ms);
+}
