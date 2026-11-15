@@ -1,4 +1,4 @@
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { useLang } from "../../../stores/lang.store";
 import { useTheme } from "../../../stores/theme.store";
 import { useEffect, useMemo } from "react";
@@ -7,6 +7,8 @@ import { useTranslation } from "react-i18next";
 
 const useNavbar = () => {
   const { i18n, t } = useTranslation();
+
+  const navigate = useNavigate();
 
   // get pathname
   const currentPathname = useLocation().pathname;
@@ -44,6 +46,7 @@ const useNavbar = () => {
     currentTheme,
     handleSetLang,
     t,
+    navigate,
   };
 };
 

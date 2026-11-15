@@ -16,12 +16,19 @@ const Navbar = () => {
     currentTheme,
     handleSetLang,
     t,
+    navigate,
   } = useNavbar();
   return (
     <header className="fixed top-0 left-0 w-full z-50 bg-surface/85 backdrop-blur-xl shadow-xs">
       <div className="h-20 max-w-7xl mx-auto px-6 lg:px-12 flex items-center justify-between gap-4">
         <div className="flex flex-row justify-start items-center gap-space-xs">
-          <img src={logo} alt="Logo" className="w-8" loading="lazy" />
+          <img
+            onClick={() => navigate("/")}
+            src={logo}
+            alt="Logo"
+            className="w-10"
+            loading="lazy"
+          />
           <span className="font-semibold text-xl text-on-surface tracking-tight">
             IamDev<span className="text-primary">.</span>
           </span>
@@ -49,7 +56,7 @@ const Navbar = () => {
               type="button"
               className={cn(
                 "px-2 py-0.5 rounded-full font-medium",
-                lang === "en" && "bg-primary text-on-primary",
+                lang === "en" && "bg-primary text-white",
               )}
               onClick={() => handleSetLang("en")}
             >
@@ -59,7 +66,7 @@ const Navbar = () => {
               type="button"
               className={cn(
                 "px-2 py-0.5 rounded-full font-medium",
-                lang === "id" && "bg-primary text-on-primary",
+                lang === "id" && "bg-primary text-white",
               )}
               onClick={() => handleSetLang("id")}
             >

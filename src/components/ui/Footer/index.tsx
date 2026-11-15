@@ -77,7 +77,7 @@ const Footer = () => {
                   <a
                     key={index}
                     href={item.id}
-                    className="text-slate-300 text-base hover:text-white transition-all duration-100"
+                    className="text-slate-300 text-sm hover:text-white transition-all duration-100"
                   >
                     {t(`navigation.${item.key}`)}
                   </a>
@@ -85,7 +85,7 @@ const Footer = () => {
                   <Link
                     key={index}
                     to={item.link}
-                    className="text-slate-300 text-base font-medium hover:text-white transition-all duration-100"
+                    className="text-slate-300 text-sm font-medium hover:text-white transition-all duration-100"
                   >
                     {t(`navigation.${item.key}`)}
                   </Link>
@@ -117,19 +117,19 @@ const Footer = () => {
             </h2>
             <div className="flex flex-row justify-start items-start gap-space-xs">
               <IconMail size={22} className="text-primary" />
-              <span className="text-base text-slate-300">
+              <span className="text-sm text-slate-300">
                 iamdev.191019@gmail.com
               </span>
             </div>
             <div className="flex flex-row justify-start items-start gap-space-xs">
               <IconMapPin size={22} className="text-primary" />
-              <span className="text-base text-slate-300">
+              <span className="text-sm text-slate-300">
                 Metro, Lampung, Indonesia
               </span>
             </div>
             <div className="flex flex-row justify-start items-start gap-space-xs">
               <IconClock size={22} className="text-primary" />
-              <span className="text-base text-slate-300">
+              <span className="text-sm text-slate-300">
                 {t("footer.operatingHoursValue")}
               </span>
             </div>
@@ -139,7 +139,7 @@ const Footer = () => {
 
       {/* credit */}
       <div className="w-full flex flex-col md:flex-row justify-center md:justify-between items-center gap-space-sm pt-space-lg">
-        <h2 className="text-2xl md:text-xl font-semibold md:flex-2 text-white text-center md:text-left">
+        <h2 className="text-2xl md:text-xl font-medium md:flex-2 text-white text-center md:text-left">
           {t("footer.tagline")}
         </h2>
 
