@@ -9,7 +9,7 @@ const SectionTwo = () => {
       id="web-engineering-service"
       className="w-full bg-surface-container flex flex-col justify-start items-start px-space-sm md:px-space-md py-space-lg"
     >
-      <div className="w-full flex flex-col justify-start items-start">
+      <div className="section-max  w-full flex flex-col justify-start items-start">
         {/* title */}
         <div className="w-full flex md:flex-row flex-col justify-between items-center gap-space-sm md:gap-space-xs">
           <div className="flex-3 lex flex-col justify-start items-start gap-space-xs">

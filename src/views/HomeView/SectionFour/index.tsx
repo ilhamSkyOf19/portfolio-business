@@ -30,7 +30,7 @@ const SectionFour = () => {
       <div className="w-120 h-120 rounded-full bg-[radial-gradient(circle,rgba(41,117,254,0.65)_0,transparent_55%)] opacity-50 blur-3xl pointer-events-none absolute left-1/2 -bottom-40" />
 
       {/* content */}
-      <div className="w-full flex flex-col justify-center items-center">
+      <div className="section-max w-full flex flex-col justify-center items-center">
         <div className="w-full md:w-2/3 flex flex-col justify-center items-center">
           <div className="w-full flex flex-col justify-start items-center pt-space-lg z-10 relative">
             <h2 className="font-bold text-5xl text-white text-center leading-16">

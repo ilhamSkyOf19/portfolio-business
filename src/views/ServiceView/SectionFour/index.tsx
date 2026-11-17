@@ -11,7 +11,7 @@ const SectionFour = () => {
   }[];
   return (
     <section className="w-full bg-surface-container flex flex-col justify-start items-start px-space-sm md:px-space-md py-space-lg">
-      <div className="w-full flex flex-col justify-start md:justify-between items-center">
+      <div className="section-max w-full flex flex-col justify-start md:justify-between items-center">
         {/* title */}
         <div className="md:w-1/2 w-full flex flex-col justify-start items-center gap-space-xs">
           <span className="text-xs text-center uppercase text-primary font-medium">

@@ -13,7 +13,7 @@ const SectionFive = () => {
   }[];
   return (
     <section className="relative bg-surface-container-low  w-full overflow-hidden pt-space-sm pb-space-lg px-space-sm md:px-space-md">
-      <div className="w-full flex flex-col justify-start items-center pt-space-lg">
+      <div className="section-max w-full flex flex-col justify-start items-center pt-space-lg">
         <div className="flex flex-col justify-start items-start md:w-3/4 w-full">
           <div className="w-full flex flex-col justify-start items-center">
             <p className="px-space-xs py-1 bg-primary/10 text-primary rounded-full text-xs uppercase font-medium">

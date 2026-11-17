@@ -25,7 +25,7 @@ const SectionOne = () => {
       <div className="pointer-events-none absolute left-1/2 top-0 -translate-x-1/2 w-200 h-100 bg-linear-to-b from-primary-container via-secondary-container dark:from-primary-container/10 dark:via-secondary-container/10 to-transparent blur-3xl rounded-full" />
 
       {/* content */}
-      <div className="flex flex-col md:flex-row justify-start items-start z-10 relative gap-space-md ">
+      <div className="section-max flex flex-col md:flex-row justify-start items-start z-10 relative gap-space-md ">
         <div className="md:flex-1 flex flex-col justify-start items-start">
           {/* label */}
           <LabelTopCorner label={t("home.hero.eyebrow")} />

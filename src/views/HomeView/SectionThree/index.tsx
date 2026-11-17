@@ -16,7 +16,7 @@ const SectionThree = () => {
 
   return (
     <section className="relative w-full overflow-hidden py-space-md px-space-sm bg-primary-fixed/50 md:px-space-md">
-      <div className="w-full flex flex-col justify-start items-start pt-space-sm">
+      <div className="section-max w-full flex flex-col justify-start items-start pt-space-sm">
         <div className="flex flex-col md:flex-row justify-stretch items-start md:items-stretch gap-space-sm md:gap-space-lg">
           <div className="flex md:flex-3 flex-col justify-start items-start gap-space-sm">
             <LabelTopCorner

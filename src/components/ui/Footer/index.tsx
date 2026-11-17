@@ -21,8 +21,8 @@ const Footer = () => {
   const { t } = useTranslation();
 
   return (
-    <footer className="w-full bg-primary-dark flex flex-col justify-start items-start pt-space-lg px-space-sm md:px-space-md pb-space-md max-w-7xl mx-auto">
-      <div className="w-full flex flex-col md:flex-row justify-start items-start md:gap-space-lg">
+    <footer className="bg-primary-dark flex flex-col justify-start items-start pt-space-lg px-space-sm md:px-space-md pb-space-md">
+      <div className="section-max  w-full flex flex-col md:flex-row justify-start items-start md:gap-space-lg">
         <div className="w-full md:flex-1 flex flex-col justify-start items-start">
           <div className="flex flex-row justify-start items-center gap-space-sm">
             <div className="w-11 h-11 bg-white flex justify-center items-center">
@@ -138,7 +138,7 @@ const Footer = () => {
       </div>
 
       {/* credit */}
-      <div className="w-full flex flex-col md:flex-row justify-center md:justify-between items-center gap-space-sm pt-space-lg">
+      <div className="section-max  w-full flex flex-col md:flex-row justify-center md:justify-between items-center gap-space-sm pt-space-lg">
         <h2 className="text-2xl md:text-xl font-medium md:flex-2 text-white text-center md:text-left">
           {t("footer.tagline")}
         </h2>

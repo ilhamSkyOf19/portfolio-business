@@ -5,7 +5,7 @@ const SectionTwo = () => {
   const { t } = useTranslation();
   return (
     <section className="relative w-full overflow-hidden py-space-md px-space-sm">
-      <div className="w-full flex flex-col justify-start items-center">
+      <div className="section-max w-full flex flex-col justify-start items-center">
         {/* title */}
         <div className="flex flex-col justify-start items-center gap-space-xs">
           <h2 className="uppercase text-primary font-semibold text-sm text-center">

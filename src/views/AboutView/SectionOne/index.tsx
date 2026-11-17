@@ -12,7 +12,7 @@ const SectionOne = () => {
     >
       <div className="pointer-events-none absolute left-1/2 top-0 -translate-x-1/2 w-200 h-100 bg-linear-to-b from-primary-container via-secondary-container dark:from-primary-container/10 dark:via-secondary-container/10 to-transparent blur-3xl rounded-full" />
 
-      <div className="w-full flex flex-col justify-start items-start gap-space-md pt-space-sm relative z-10">
+      <div className="section-max w-full flex flex-col justify-start items-start gap-space-md pt-space-sm relative z-10">
         <div className="w-full flex flex-col md:flex-row justify-start items-stretch gap-space-md">
           <div className="md:w-auto w-full flex flex-col justify-start items-start md:flex-1">
             <LabelTopCorner label={t("about.hero.eyebrow")} />

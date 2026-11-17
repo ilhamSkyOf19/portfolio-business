@@ -10,7 +10,7 @@ const LayoutsContent = () => {
 
       <Navbar />
 
-      <main className="w-full pt-20 max-w-7xl mx-auto">
+      <main className="w-full pt-20">
         <div className="flex flex-col w-full ">
           <Outlet />
         </div>

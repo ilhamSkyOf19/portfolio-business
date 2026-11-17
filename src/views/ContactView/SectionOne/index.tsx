@@ -9,7 +9,7 @@ const SectionOne = () => {
       id="contact"
       className="relative bg-surface w-full overflow-hidden pt-space-sm pb-space-lg px-space-sm md:px-space-md"
     >
-      <div className="w-full flex flex-col justify-start items-center pt-space-md">
+      <div className="section-max w-full flex flex-col justify-start items-center pt-space-md">
         <div className="md:w-2/3 w-full flex flex-col justify-start items-center">
           <LabelTopCorner label={t("contact.hero.eyebrow")} />
 

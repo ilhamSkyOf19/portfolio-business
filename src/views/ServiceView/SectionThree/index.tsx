@@ -24,7 +24,7 @@ const SectionThree = () => {
       id="pricing"
       className="relative bg-surface  w-full overflow-hidden pt-space-sm pb-space-lg px-space-sm md:px-space-md"
     >
-      <div className="w-full flex flex-col justify-start items-center pt-space-lg">
+      <div className="section-max w-full flex flex-col justify-start items-center pt-space-lg">
         <p className="px-space-xs py-1 bg-primary/10 text-primary rounded-full text-xs uppercase font-medium">
           {t("service.pricing.eyebrow")}
         </p>
